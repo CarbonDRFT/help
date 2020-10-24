@@ -153,29 +153,6 @@ h1 {
   object-fit: cover;
 }
 
-.link__men-jacket {
-  position: absolute;
-}
-
-.link__men-jacket .text {
-  position: absolute;
-  z-index: 10;
-  opacity: 0;
-  transition: all 0.8s ease;
-}
-
-.link__men-jacket .text h1 {
-  margin: 0;
-  color: white;
-  display: flex;
-  align-items: center;
-}
-
-.link__men-jacket:hover .text {
-  opacity: 1;
-  display: flex;
-  align-items: flex-end;
-}
 
 .box5 {
   background-color: lemonchiffon;
